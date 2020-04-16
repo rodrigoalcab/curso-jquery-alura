@@ -2,7 +2,7 @@
 
 ## Descrição do projeto
 - Trata-se de um jogo de digitação onde o usuário tem um tempo limitado para digitar o máximo de palavras possíveis conforme a frase disponibilizada.
--Projeto desenvolvido no curso: [jQuery: Domine a biblioteca mais popular do mercado](https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado)
+- Projeto desenvolvido no curso: [jQuery: Domine a biblioteca mais popular do mercado](https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado)
 
 ## Tecnologias utilizadas
 - JavaScript
