@@ -4,6 +4,11 @@
 - Trata-se de um jogo de digitação onde o usuário tem um tempo limitado para digitar o máximo de palavras possíveis conforme a frase disponibilizada.
 - Projeto desenvolvido nos cursos: [jQuery: Domine a biblioteca mais popular do mercado](https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado) e [jQuery: Avance na biblioteca mais popular do mercado](https://cursos.alura.com.br/course/jquery-a-biblioteca-do-mercado-parte-2)
 
+## Screenshots do projeto
+![Screenshot](screenshot.png)
+
+![Screenshot](screenshot2.png)
+
 ## Tecnologias utilizadas
 - JavaScript
 - jQuery
